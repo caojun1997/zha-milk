@@ -1,0 +1,20 @@
+{
+  "name": "skills-cli-project",
+  "version": "1.0.0",
+  "description": "一个基于 npm 的 skills 管理 CLI 项目",
+  "type": "commonjs",
+  "bin": {
+    "skills-cli": "src/index.js"
+  },
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "skills",
+    "cli",
+    "npm"
+  ],
+  "author": "",
+  "license": "MIT"
+}
