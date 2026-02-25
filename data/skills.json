@@ -1,0 +1,14 @@
+{
+  "skills": [
+    {
+      "name": "JavaScript",
+      "description": "前端与 Node.js 开发基础",
+      "level": "intermediate"
+    },
+    {
+      "name": "Git",
+      "description": "版本管理与团队协作",
+      "level": "beginner"
+    }
+  ]
+}
